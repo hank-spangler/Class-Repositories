@@ -29,10 +29,18 @@ The collapsable list above was created by the code you see below.
   * [Meme](https://github.com/SKHS-GDP-2019-2020/Class-Repositories)
   * [Myself](https://github.com/SKHS-GDP-2019-2020/Class-Repositories)
   * [AndI](https://github.com/SKHS-GDP-2019-2020/Class-Repositories)
-  
-</details>
-```
 
+  ---
+  
+<details>
+  <summary>Spangler Hank</summary>
+  
+    *[me](https://github.com/hank-spangler/Class-Repositories/edit/master/README.md)
+    *[myslef](https://github.com/hank-spangler/Class-Repositories/edit/master/README.md)
+    *[andI](https://github.com/hank-spangler/Class-Repositories/edit/master/README.md)
+    
+  
+   
 You will be adding your GitHub repository to the list. To do this add a line for yourself, in **alphabetical order by last name**. In the code above:
 
 * An asterisk (__*__) at the beginning of a line creates a bulleted list item.
