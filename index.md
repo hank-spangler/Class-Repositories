@@ -25,8 +25,9 @@ remote_theme: douglasurner/canvas
   <summary>6th Block</summary>
   
   * [Thomas K.](https://github.com/Kay9000)
-  * [Douglas U.](https://github.com/DouglasUrner)
   * [Hank S.](https://github.com/hank-spangler)
+  * [Douglas U.](https://github.com/DouglasUrner)
+
   
 </details>
 
